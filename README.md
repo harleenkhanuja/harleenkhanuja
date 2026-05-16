@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=harleenkhanuja&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/harleenkhanuja?label=Followers&style=flat-square&color=F75C7E" alt="followers" />
 </p>
----
 
 ## 🧠 About Me
 
@@ -15,8 +14,6 @@
 - 🔍 Exploring the frontier of **RAG pipelines, vector databases, and LLM evaluation frameworks**.
 - 💡 Always eager to **collaborate, learn in public, and ship impactful solutions**.
 
-
----
 
 ## 🌐 Connect With Me
 
