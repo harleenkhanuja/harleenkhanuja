@@ -147,7 +147,7 @@
 
 ---
 
-## 🏆 What I'm Currently Focusing On
+## 🔎 What I'm Currently Focusing On
 
 - 🔬 Deepening knowledge in **LLMs, RAG systems, and AI evaluation frameworks**
 - 📊 Building production-grade **ML pipelines with real-world datasets**
