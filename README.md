@@ -9,23 +9,15 @@
 
 ---
 
-## class HarleenKhanuja:
-    def __init__(self):
-        self.name        = "Harleen Khanuja"
-        self.university  = "MIT WPU University, Pune"
-        self.location    = "Pune"
-        self.focus       = ["Machine Learning", "Full-Stack Dev", "AI Applications"]
-        self.currently   = [
-            "Exploring RAG pipelines, LLMs, and vector databases",
-            "Creating full-stack platforms with live data and analytics",
-        ]
-        self.fun_fact    = "I build things that solve real problems — not just academic exercises."
+## 🧠 About Me
 
-    def say_hi(self):
-        print("I am looking for roles - Anywhere the job is to build something real, not just talk about building soething real.")
+- 🎓 Computer Science student at **MIT WPU University, Pune** — passionate about building technology that actually matters.
+- 📍 Based in **Pune, India** — open to opportunities across India and beyond.
+- 🤖 Deeply interested in **Machine Learning, AI applications, and Full-Stack Development**.
+- 🔍 Exploring the frontier of **RAG pipelines, vector databases, and LLM evaluation frameworks**.
+- 💡 Always eager to **collaborate, learn in public, and ship impactful solutions**.
 
-me = HarleenKhanuja()
-me.say_hi()
+
 ---
 
 ## 🌐 Connect With Me
@@ -176,8 +168,7 @@ me.say_hi()
 
 ## 💬 My Philosophy
 
-> *"I don't just write code — I build solutions. Every project in this profile started with a real problem and ended with something that works.
-WELL , Thanks for stopping by! If you got this far, you probably have something in mind. Send it over -- i don't GHOST! "*
+> *"I don't just write code — I build solutions. Every project in this profile started with a real problem and ended with something that works."*
 
 ---
 
