@@ -2,7 +2,7 @@
 
 # Harleen Khanuja
 
-**BCA student at MIT-WPU Pune. Building ML pipelines, RAG systems, full-stack web apps, and backend APIs. I learn by shipping real projects. Open to full-stack, AI/ML, data analytics, and backend roles.**
+**BCA at MIT-WPU Pune. Building ML pipelines, RAG systems, full-stack web apps, and backend APIs. I learn by shipping real projects.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleenkhanuja/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harleenkhanuja199@gmail.com)
@@ -16,7 +16,7 @@
 
 BCA student at Dr. Vishwanath Karad MIT-WPU, Pune. I build things across the entire stack — ML pipelines, CNN models, RAG systems, full-stack web apps, and backend APIs. My projects aren't tutorials. They're real systems with real data, real architecture decisions, and real tradeoffs.
 
-I'm looking for roles in **Full-Stack Development · AI/ML Engineering · Data Analytics · Backend Development · Frontend Development** — anywhere someone needs a person who figures things out and actually ships.
+I'm looking for roles in **Full-Stack Development · AI/ML Engineering · Data Analytics · Backend Development · Frontend Development** — Anywhere the job is to build something real, not talk about building something real.
 
 ---
 
