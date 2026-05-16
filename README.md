@@ -1,163 +1,191 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Harleen+Khanuja+%F0%9F%91%8B;ML+Engineer+%7C+Full-Stack+Developer;Building+AI+that+actually+matters+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-# Harleen Khanuja
-
-**BCA at MIT-WPU Pune. Building ML pipelines, RAG systems, full-stack web apps, and backend APIs. I learn by shipping real projects.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleenkhanuja/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harleenkhanuja199@gmail.com)
-[![Open to Work](https://img.shields.io/badge/🔍_Open_to_Work-Full_Stack_·_AI/ML_·_Data_·_Backend-22c55e?style=for-the-badge)](#)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harleenkhanuja&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/harleenkhanuja?label=Followers&style=flat-square&color=F75C7E" alt="followers" />
+</p>
 
 ---
 
-## Who I Am
+## 🧠 About Me
 
-BCA student at Dr. Vishwanath Karad MIT-WPU, Pune. I build things across the entire stack — ML pipelines, CNN models, RAG systems, full-stack web apps, and backend APIs. My projects aren't tutorials. They're real systems with real data, real architecture decisions, and real tradeoffs.
+```python
+class HarleenKhanuja:
+    def __init__(self):
+        self.name        = "Harleen Khanuja"
+        self.university  = "MIT WPU University, Pune"
+        self.location    = "Pune, India 🇮🇳"
+        self.focus       = ["Machine Learning", "Full-Stack Dev", "AI Applications"]
+        self.currently   = [
+            "Building ML models for real-world health & finance problems",
+            "Exploring RAG pipelines, LLMs, and vector databases",
+            "Creating full-stack platforms with live data and analytics",
+        ]
+        self.fun_fact    = "I build things that solve real problems — not just academic exercises."
 
-I'm looking for roles in **Full-Stack Development · AI/ML Engineering · Data Analytics · Backend Development · Frontend Development** — Anywhere the job is to build something real, not talk about building something real.
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something impactful together 🚀")
 
----
-
-## 🛠️ What I Work With
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6C3483?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Web & Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP%2FServlets-007396?style=flat-square&logo=java&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+me = HarleenKhanuja()
+me.say_hi()
+```
 
 ---
 
-## 🚀 Projects
+## 🌐 Connect With Me
 
-### 🧠 Gemma RAG Legal Chatbot ← *Most proud of this one*
-**Local LLM · RAG Pipeline · LLM-as-Judge Evaluation**
-
-Most people build RAG chatbots that call OpenAI and call it a day. This one runs **entirely offline** — no cloud, no API keys, no data leaving your machine. Uses **Google's Gemma 4 (31B)**, ChromaDB for vector storage, and `all-MiniLM-L6-v2` for embeddings.
-
-The part that actually makes this interesting: I built a **RAGAS-inspired evaluation framework** that uses an LLM as a judge to score answer quality — faithfulness, relevance, precision. It doesn't just answer legal questions, it *knows* how well it answered them.
-
-`Python` `Gemma 4` `ChromaDB` `RAG` `RAGAS` `HuggingFace`
-
-→ [View Repo](https://github.com/harleenkhanuja/Gemma-Chatbot-with-RAG-RAGAS-Evaluation)
-
----
-
-### 📈 NAT Funds — Institutional-Grade Mutual Fund Analytics
-**Full-Stack · Live Financial Data · 12+ Metrics**
-
-This isn't a dashboard with fake data. It aggregates **live data from 9,100+ AMFI schemes** and computes the kind of metrics that hedge funds actually use — Sharpe Ratio, Sortino Ratio, Jensen's Alpha, Beta, Max Drawdown. All computed from scratch, not fetched from an API.
-
-Built full-stack: JavaScript frontend, live data aggregation pipeline, real financial math implemented by hand.
-
-`JavaScript` `Node.js` `Financial Analytics` `REST APIs` `Live Data`
-
-→ [View Repo](https://github.com/harleenkhanuja/NAT-Funds)
+<p align="left">
+  <a href="https://www.linkedin.com/in/harleen-khanuja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harleenkhanuja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harleenkhanuja" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🫀 Stroke Risk Predictor
-**ML · Flask · End-to-End Pipeline**
+## 🛠️ Tech Stack
 
-End-to-end ML web app — not a notebook, an actual deployed thing a user can interact with. Real healthcare dataset, proper preprocessing pipeline, trained Scikit-learn model, Flask backend, HTML/CSS frontend. Shows you can take ML from a Jupyter cell to something people can actually use.
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-`Python` `Flask` `Scikit-learn` `Pandas` `Healthcare ML`
+### 🤖 Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-412991?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-F75C7E?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-→ [View Repo](https://github.com/harleenkhanuja/Stroke-Risk-Predictor)
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HikariCP-003545?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### ☀️ Solar Panel Fault Detector
-**CNN · Computer Vision · 20,000 Real Images**
+## 🚀 Featured Projects
 
-Trained on **20,000 Raptormaps infrared images** — not synthetic data, real industrial imagery. Dual-model approach: Random Forest baseline using HOG features + thermal statistics, *and* a 3-block CNN with BatchNorm, Dropout, and GlobalAvgPooling. Real computer vision for a real industrial problem.
+### 🧠 [Gemma Chatbot with RAG + RAGAS Evaluation](https://github.com/harleenkhanuja/Gemma-Chatbot-with-RAG-RAGAS-Evaluation)
+> **Privacy-first Legal Document Q&A powered by a fully local RAG pipeline**
 
-`Python` `TensorFlow` `CNN` `Computer Vision` `Scikit-learn`
-
-→ [View Repo](https://github.com/harleenkhanuja/Solar-Panel-Fault-Detector)
-
----
-
-### 🗂️ LocalDrop — LAN File Sharing in Your Browser
-**Java Backend · Full-Stack · Networking**
-
-Think AirDrop, but it runs in your browser over your local Wi-Fi and I built it in Java. Servlets, JSP, HikariCP connection pooling, MySQL. Upload, download, search, and track transfers from any device on the network. No app install required.
-
-`Java` `Servlets` `JSP` `HikariCP` `MySQL`
-
-→ [View Repo](https://github.com/harleenkhanuja/LocalDrop)
+- Built with **ChromaDB + all-MiniLM-L6-v2** embeddings for semantic retrieval
+- Powered by **Google's Gemma 4 (31B)** running locally — zero data leaves your machine
+- Implemented a **RAGAS-inspired LLM-as-judge evaluation framework** to measure answer faithfulness, relevance, and correctness
+- `Python` `RAG` `ChromaDB` `Gemma LLM` `RAGAS` `NLP`
 
 ---
 
-### 💊 MedReminder
-**Frontend · Web APIs · UX**
+### 📈 [NAT-Funds — Institutional Grade Mutual Fund Analytics](https://github.com/harleenkhanuja/NAT-Funds)
+> **Full-stack platform aggregating live data for 9,100+ AMFI mutual fund schemes**
 
-A clean medication reminder web app — browser notifications + sound alerts, schedule tracking, simple UX. Does what it says. Ships clean.
+- Computes **12+ financial metrics** including Sharpe Ratio, Sortino Ratio, Jensen's Alpha, Beta, and Max Drawdown
+- Live data pipeline with real-time analytics dashboard
+- `JavaScript` `Finance` `API Integration` `Data Analytics` `Full-Stack`
 
-`JavaScript` `Web Notifications API` `LocalStorage`
+---
 
-→ [View Repo](https://github.com/harleenkhanuja/Med-Reminder)
+### ☀️ [Solar Panel Fault Detector](https://github.com/harleenkhanuja/Solar-Panel-Fault-Detector)
+> **Computer Vision system trained on 20,000 Raptormaps infrared images**
+
+- Dual-approach architecture: **Random Forest baseline** (HOG + thermal statistics) + **3-block CNN** (BatchNorm, Dropout, GlobalAvgPool)
+- Applied to real-world renewable energy infrastructure monitoring
+- `Python` `CNN` `Random Forest` `Computer Vision` `Jupyter`
+
+---
+
+### 🏥 [Stroke Risk Predictor](https://github.com/harleenkhanuja/Stroke-Risk-Predictor)
+> **ML-powered web app for clinical stroke risk assessment**
+
+- Ensemble of **Logistic Regression + Decision Tree + Random Forest** with voting classifier
+- Categorizes risk into 5 tiers with personalized health recommendations
+- Doctor dashboard supporting **batch CSV predictions**
+- `Python` `Flask` `Scikit-learn` `Pandas` `HTML/CSS`
+
+---
+
+### 🗂️ [LocalDrop — LAN File Sharing Server](https://github.com/harleenkhanuja/LocalDrop)
+> **Browser-based file sharing across any device on your Wi-Fi network**
+
+- Built with **Java Servlets + JSP + HikariCP + MySQL**
+- Upload, download, search, and track file transfers — no internet required
+- `Java` `Servlets` `JSP` `MySQL` `HikariCP`
+
+---
+
+### 💊 [MedReminder](https://github.com/harleenkhanuja/Med-Reminder)
+> **Medication tracking app with smart browser notifications + sound alerts**
+
+- Helps users schedule and track medicines with real-time browser push notifications
+- `JavaScript` `LocalStorage` `Web Notifications API` `HTML/CSS`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harleenkhanuja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleenkhanuja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harleenkhanuja&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harleenkhanuja&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harleenkhanuja&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harleenkhanuja&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harleenkhanuja&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
 
-## 📫 Reach Me
+## 🏆 What I'm Currently Focusing On
 
-**Email:** [harleenkhanuja199@gmail.com](mailto:harleenkhanuja199@gmail.com)  
-**LinkedIn:** [linkedin.com/in/harleenkhanuja](https://www.linkedin.com/in/harleenkhanuja/)
+- 🔬 Deepening knowledge in **LLMs, RAG systems, and AI evaluation frameworks**
+- 📊 Building production-grade **ML pipelines with real-world datasets**
+- 💡 Creating tools that sit at the intersection of **AI × Finance × Healthcare**
+- 🌱 Contributing to open-source and learning in public
 
-I'm actively looking. If you got this far, you probably have something in mind. Send it over — I don't ghost.
+---
+
+## 💬 My Philosophy
+
+> *"I don't just write code — I build solutions. Every project in this profile started with a real problem and ended with something that works."*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harleenkhanuja&color=6366f1&style=flat-square&label=Profile+Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=80&section=footer" />
 </p>
