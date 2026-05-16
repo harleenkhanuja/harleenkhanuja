@@ -154,7 +154,7 @@ A clean medication reminder web app — browser notifications + sound alerts, sc
 **Email:** [harleenkhanuja199@gmail.com](mailto:harleenkhanuja199@gmail.com)  
 **LinkedIn:** [linkedin.com/in/harleenkhanuja](https://www.linkedin.com/in/harleenkhanuja/)
 
-I'm actively looking. If you're building something interesting or have a role that fits — I read every message and I reply fast.
+I'm actively looking. If you got this far, you probably have something in mind. Send it over — I don't ghost.
 
 ---
 
