@@ -1,12 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Harleen+Khanuja+%F0%9F%91%8B;ML+Engineer+%7C+Full-Stack+Developer;Building+AI+that+actually+matters+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Harleen+Khanuja+%F0%9F%91%8B;ML+Engineer+%7C+Full-Stack+Developer;Building+AI+that+actually+matters+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harleenkhanuja&label=Profile%20Views&color=F75C7E&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/harleenkhanuja?label=Followers&style=flat-square&color=F75C7E" alt="followers" />
 </p>
-
 ---
 
 ## 🧠 About Me
