@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Science student at **MIT WPU University, Pune** — passionate about building technology that actually matters.
+- 🎓 Computer Science graduate at **MIT WPU University, Pune** — passionate about building technology that actually matters.
 - 📍 Based in **Pune, India** — open to opportunities across India and beyond.
 - 🤖 Deeply interested in **Machine Learning, AI applications, and Full-Stack Development**.
 - 🔍 Exploring the frontier of **RAG pipelines, vector databases, and LLM evaluation frameworks**.
